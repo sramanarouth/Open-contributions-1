@@ -27,7 +27,7 @@ Visualisation using matplotlib, seaborn, folium
 Data Analysis
 # Machine Learning
 1. Problem Definition
-Hypothesis Generation
+2. Hypothesis Generation
 Data Extraction
 Data Exploration and Transformation
 Predictive Modelling
