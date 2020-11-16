@@ -1,36 +1,37 @@
 # PYTHON PROGRAMMING TOPICS
-Variables
-Identifiers
-constants
-Literals
-Numbers
-Strings
-Tuples
-Lists
-Dictionary
-Sets
-Operators
-Flow Control
-Loops
-Functions
-Pass by value
-Modules
-User-defined Modules
-Assertions
-Exception
+1. Variables
+2. Identifiers
+3. Constants
+4. Literals
+5. Numbers
+6. Strings
+7. Tuples
+8. Lists
+9. Dictionary
+10. Sets
+11. Operators
+12. Flow Control
+13. Loops
+14. Functions
+15. Pass by value
+16. Modules
+17. User-defined Modules
+18. Assertions
+19. Exception
 # Data Science
-Numpy
-Pandas
-Pandas Dataframe
-Data Cleaning
-Visualisation using matplotlib, seaborn, folium
-Data Analysis
+1. Numpy
+2. Pandas
+3. SciPy
+4. Pandas Dataframe
+5. Data Cleaning
+6. Visualisation using matplotlib, seaborn, folium
+7. Data Analysis
 # Machine Learning
 1. Problem Definition
 2. Hypothesis Generation
-Data Extraction
-Data Exploration and Transformation
-Predictive Modelling
+3. Data Extraction
+4. Data Exploration and Transformation
+5. Predictive Modelling
 * Model Development
   1. Unsupervised Learning
   2. Supervised Learning
@@ -43,11 +44,11 @@ Predictive Modelling
   9. Support Vector Machine
 ### I have a knowledge of Website Scraping though I'm a beginner in it.
 ### NLP
-nltk
-TextBlob
+1. nltk
+2. TextBlob
 # Image Processing
-openCV
-Face Detection
+1. openCV
+2. Face Detection
 # Deep Learning
-Artificial Neural Network ANN
-Convolutional Neural Network CNN
+1. Artificial Neural Network ANN
+2. Convolutional Neural Network CNN
