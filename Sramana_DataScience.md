@@ -18,7 +18,7 @@
 17. User-defined Modules
 18. Assertions
 19. Exception
-# Data Science
+# DATA SCIENCE TOPICS
 1. Numpy
 2. Pandas
 3. SciPy
@@ -26,7 +26,7 @@
 5. Data Cleaning
 6. Visualisation using matplotlib, seaborn, folium
 7. Data Analysis
-# Machine Learning
+# MACHINE LEARNING TOPICS
 1. Problem Definition
 2. Hypothesis Generation
 3. Data Extraction
@@ -46,9 +46,9 @@
 ### NLP
 1. nltk
 2. TextBlob
-# Image Processing
+# IMAGE PROCESSING
 1. openCV
 2. Face Detection
-# Deep Learning
+# DEEP LEARNING TOPICS
 1. Artificial Neural Network ANN
 2. Convolutional Neural Network CNN
