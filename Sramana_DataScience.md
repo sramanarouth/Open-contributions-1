@@ -1,4 +1,4 @@
-# PYTHON PROGRAMMING
+# PYTHON PROGRAMMING TOPICS
 Variables
 Identifiers
 constants
@@ -26,7 +26,7 @@ Data Cleaning
 Visualisation using matplotlib, seaborn, folium
 Data Analysis
 # Machine Learning
-Problem Definition
+1. Problem Definition
 Hypothesis Generation
 Data Extraction
 Data Exploration and Transformation
