@@ -42,6 +42,7 @@
   7. Decision Tree
   8. Random Forest
   9. Support Vector Machine
+  10. Naive Bayes (GaussianNB, MultinomialNB)
 ### I have a knowledge of Website Scraping though I'm a beginner in it.
 ### NLP
 1. nltk
